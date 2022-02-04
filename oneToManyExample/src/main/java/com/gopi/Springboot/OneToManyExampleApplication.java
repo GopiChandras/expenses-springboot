@@ -15,6 +15,7 @@ public class OneToManyExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OneToManyExampleApplication.class, args);
+		System.out.println("Application Started");
 	}
 
 
